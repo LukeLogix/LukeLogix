@@ -5,7 +5,7 @@
 近 10 年後端開發經驗,近 3 年以 Go 為主力。能獨立把系統從設計、實作、上線到監控維運**一人交付到生產**。近期以 AI 輔助從 0 打造並營運一套多租戶事件總線平台。
 
 📮 benedict.lh@gmail.com　·　🌏 台灣・桃園　·　🟢 Open to remote roles
-🌐 個人站建置中 · alderflux.com
+🌐 個人站 <https://me.alderflux.com>
 
 ---
 
@@ -18,7 +18,7 @@
 - **為 k8s 水平擴充而生**：無狀態服務 + etcd 設定 + 冪等 migration（多 pod 同啟安全）
 - **工程紀律**：TDD + 契約防漂移測試（實際路由 ↔ OpenAPI）+ 合併前 code-review gate
 
-🔗 產品站 <https://msgmesh.alderflux.com>　·　即時 Demo（免註冊） <https://msgmesh-demo.alderflux.com>
+🔗 產品站 <https://msgmesh.alderflux.com>　·　即時 Demo（免註冊） <https://msgmesh.alderflux.com/demo/>
 
 `Go` · `Kafka` · `PostgreSQL` · `Redis` · `etcd` · `SSE/WebSocket` · `MCP` · `Helm/K8s` · `Prometheus`
 
